@@ -1,4 +1,4 @@
-# Hey, I'm David 👋
+# Hi, I'm David 👋
 
 Software engineer with a background in full-stack development, commercial real estate, and entrepreneurship. I build tools that solve real business problems—usually ones I've encountered firsthand.
 
@@ -6,7 +6,7 @@ Software engineer with a background in full-stack development, commercial real e
 
 🔭 **Currently:** Building AI-powered business tools and iOS apps
 
-⌚ **[Watch Inventory](https://github.com/yourusername/watch-inventory)** — Full-stack inventory management for luxury watch dealers. Features AI-powered CSV import that automatically maps any spreadsheet format, profit analytics, and multi-tenant auth. Built with Next.js, TypeScript, Prisma, and Claude API.
+⌚ **[Watch Inventory](https://github.com/dangitbobbeh/watch-inventory)** — Full-stack inventory management for luxury watch dealers. Features AI-powered CSV import that automatically maps any spreadsheet format, profit analytics, and multi-tenant auth. Built with Next.js, TypeScript, Prisma, and Claude API.
 
 🎤 **CrowdMeter** — iOS app for comedians to measure audience response in real-time. Exploring the intersection of performance and data.
 
