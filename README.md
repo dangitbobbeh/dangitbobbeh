@@ -23,8 +23,8 @@ Software engineer with a background in full-stack development, commercial real e
 ```
 Frontend       Next.js · React · TypeScript · Tailwind CSS
 Backend        Node.js · PostgreSQL · Prisma · REST APIs
-AI/ML          Claude API · OpenAI · Prompt Engineering
-Mobile         Swift · iOS Development
+AI/ML          Claude API · Prompt Engineering
+Mobile         Swift
 Infrastructure Vercel · GitHub Actions · CI/CD
 ```
 
