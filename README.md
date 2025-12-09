@@ -8,7 +8,9 @@ Software engineer with a background in full-stack development, commercial real e
 
 ⌚ **[Watch Inventory](https://github.com/dangitbobbeh/watch-inventory)** — Full-stack inventory management for luxury watch dealers. Features AI-powered CSV import that automatically maps any spreadsheet format, profit analytics, and multi-tenant auth. Built with Next.js, TypeScript, Prisma, and Claude API.
 
-🎤 **CrowdMeter** — iOS app for comedians to measure audience response in real-time. Exploring the intersection of performance and data.
+🎤 **CrowdMeter** — iOS app for performers to measure audience response in real-time. Exploring the intersection of performance and data.
+
+🎵**MusicMatch** — iOS app for users to connect to others listening to the same music in the same vicinity. Building social connections beyond the screen.
 
 ## Past Work
 
