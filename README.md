@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-Software engineer with a background in full-stack development, commercial real estate, and entrepreneurship. I build tools that solve real business problems—usually ones I've encountered firsthand.
+Software engineer with a background in full-stack development, commercial real estate, and entrepreneurship. I build tools that solve real business problems. Usually ones I've encountered firsthand.
 
 ## What I'm Working On
 
@@ -40,7 +40,7 @@ When I'm not programming, you might find me:
 - 🎸 Listening to shoegaze
 - 🃏 Playing Magic: The Gathering
 - 🧠 Reading about animal intelligence or the neurobiology of laughter
-- 🧀 Going down rabbit holes about the history of dairy
+- 🧀 Going down rabbit holes about the history of religion
 
 ---
 
